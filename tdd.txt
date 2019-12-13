@@ -1,0 +1,13 @@
+Starting a Campfire
+
+1 Gather necessary materials
+    1.1 Gather wood
+        1.1.1 Gather Tinder
+        1.1.2 Gather Kindling
+        1.1.3 Gather Fuel
+    1.2 Gather lighter or match
+2 Create fire structure
+    1.1 Lay kindling over the tinder like you're building a tent
+3 Start fire
+  1.1 Ignite the tinder with a match or lighter
+  1.2 Add more tinder as fire grows
